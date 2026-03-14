@@ -1,9 +1,9 @@
 getgenv().Settings = {
     ['Made By JoJo#2494'] = {
         OWNER = "DexAbc", --/ Stand owner username.
-        STANDS = {"ReportWontHelp"}, --/ List of your stand accounts (if you have more than one you can add more usernames to the table).
+        STANDS = {"Jonansalr20"}, --/ List of your stand accounts (if you have more than one you can add more usernames to the table).
         FPS = 30, --/ Will control FPS can improve the overall performance on both instances when set to lower.
-        PERFORMANCE = false, --/ If set to true it'll significantly improve your overall FPS if you're struggling with performance.
+        PERFORMANCE = true, --/ If set to true it'll significantly improve your overall FPS if you're struggling with performance.
         NOCLIP = {SynapseX = false, Offset = -3.05}, --/ Offset will control the height of normal noclip (keep unchanged unless you're using titan with a big character / SynapseX option).
         FACELESS = true, --/ If you want to remove your face.
         TRAILS = true, --/ If you want to remove the white trail when charge attacking.
